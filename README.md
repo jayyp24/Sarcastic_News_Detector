@@ -1,5 +1,5 @@
 
-Certainly, here's a more detailed overview section for your README page:
+
 
 Sarcasm Detection Model
 Overview
