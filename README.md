@@ -3,6 +3,8 @@
 
 Sarcasm Detection Model
 Overview
+
+
 Welcome to the Sarcasm Detection Model repository! This project presents a sophisticated sarcasm detection model built using TensorFlow, designed to identify sarcastic elements within news headlines. The model has undergone extensive training and fine-tuning, resulting in an impressive accuracy rate of 99%. In this section, we provide a comprehensive overview of the model, its purpose, capabilities, and how you can effectively utilize it.
 
 Purpose
